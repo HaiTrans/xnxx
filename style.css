@@ -1,0 +1,22 @@
+.card-text{ 
+    padding:0;}
+    .bigtit{ 
+        color:red !important;
+        font-weight:900; 
+        font-size:40px !important;
+    }
+    
+.nav-item{ 
+        padding:0 30px;
+    }
+    
+.nav-item a{
+        font-size:18px;
+        font-weight: 700;
+}
+
+
+.bd-highlight{
+    justify-content: center;
+}
+
